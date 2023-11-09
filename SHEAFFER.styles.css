@@ -310,7 +310,7 @@ img{
 
 /* ---------- ADJUSTING RESPONSIVE IMAGE SIZE ---------- */
 /* --------------- BEGIN RESPONSIVE IMAGE ADJUST SIZES --------------- */
-@media (max-width: 768px) {
+@media (min-width: 1380px) {
     img{
         width: 300px;
         max-width: 300px;
